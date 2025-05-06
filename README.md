@@ -1,12 +1,50 @@
-# React + Vite
+# Loan Calculator Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Contents
+1. [Important Links](#important-links)  
+2. [Overview](#overview)  
+3. [Features](#features)  
+4. [Technologies Used](#technologies-used)  
+5. [Setup Instructions](#setup-instructions)  
+6. [Formula Used](#formula-used)   
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Important Links
+- **GitHub Repository**: [Add link here]  
+- **Live Project**: [Add link here]  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Overview
+A modern, responsive single-page application built with **React JS** and **Material UI**. It enables users to calculate EMIs (Equated Monthly Installments), view a detailed amortization schedule, and see real-time currency conversions using live exchange rates.
+
+---
+
+##  Features
+- Loan EMI calculation using financial formulas  
+- Dynamic amortization schedule with monthly breakdown  
+- Real-time currency conversion via ExchangeRate API  
+- Paginated table for 160+ currencies  
+- Dark/Light mode toggle (Material UI theming)  
+- Fully responsive UI with collapsible header on mobile  
+- 404 Not Found and graceful error pages  
+- Custom React Hooks for reusable logic  
+
+---
+
+## Technologies Used
+- React (Hooks, Context API, Router)  
+- Material UI (MUI v5)  
+- Axios (for API calls)  
+- ExchangeRate API  
+- React Router DOM  
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/loan-calculator-app.git
+cd loan-calculator-app
