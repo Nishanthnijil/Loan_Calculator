@@ -1,0 +1,11 @@
+.main-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;     /* Horizontal center */
+    justify-content: flex-start;  /* Vertical top */
+    min-height: 100vh;
+    padding-top: 2rem;  
+    
+  }
+  
