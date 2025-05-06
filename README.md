@@ -11,8 +11,8 @@
 ---
 
 ##  Important Links
-- **GitHub Repository**: [Add link here]  
-- **Live Project**: [Add link here]  
+- **GitHub Repository**: https://github.com/Nishanthnijil/Loan_Calculator
+- **Live Project**: https://loancalculator-48dea.web.app
 
 ---
 
