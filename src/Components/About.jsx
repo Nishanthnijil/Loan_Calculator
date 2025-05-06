@@ -23,8 +23,8 @@ export default function About() {
       <Divider sx={{ my: 2 }} />
 
       <Typography variant="h6">1. Important Links:</Typography>
-      <Typography>• GitHub Repository: <a href="https://github.com/yourusername/loan-calculator-app" target="_blank" rel="noopener noreferrer">Click here</a></Typography>
-      <Typography>• Live Project Link: <a href="https://your-live-link.com" target="_blank" rel="noopener noreferrer">Click here</a></Typography>
+      <Typography>• GitHub Repository: <a href="https://github.com/Nishanthnijil/Loan_Calculator" target="_blank" rel="noopener noreferrer">Click here</a></Typography>
+      <Typography>• Live Project Link: <a href="https://loancalculator-48dea.web.app/" target="_blank" rel="noopener noreferrer">Click here</a></Typography>
 
       <Divider sx={{ my: 2 }} />
 
@@ -101,9 +101,6 @@ export default function About() {
       </Typography>
 
       <Divider sx={{ my: 2 }} />
-
-      <Typography variant="h6">7. Sample Screenshots:</Typography>
-      <Typography variant="body2">(Add screenshot images here as needed using &lt;img src="/path" /&gt;)</Typography>
     </Container>
   );
 }
